@@ -1,0 +1,76 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+main{
+    width: 600px;
+}
+    
+h1{
+    text-align: center;
+   
+}
+p{
+    padding-left: 30px;
+    width: 600px;
+    
+}
+p.abc{
+    padding-left: 55px;
+    margin-bottom: 10px;
+}
+h2{
+    background-color: rgba(173, 224, 173, 0.458);
+    padding: 40px;
+    width: 600px;
+}
+h3{
+  padding: 20px;
+  width: 600px;
+}
+h4{
+padding-left: 40px;
+}
+article{
+  
+   position:absolute;
+    top: 25%;
+   left:55% ;
+
+   
+
+}
+table{
+    border-collapse: collapse;
+}
+thead{
+ 
+}
+tbody{
+    
+
+
+}
+caption{
+    background-color: black;
+   color: white;
+   width: 500px;
+}
+td{
+    padding-left: 50px;
+     
+}
+td.direita{
+    text-align: center;
+}
+td.imp:nth-child(1n){
+background-color: rgba(173, 224, 173, 0.458);
+
+}
+
